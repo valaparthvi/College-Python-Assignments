@@ -1,0 +1,6 @@
+Hi there!
+This is file2.
+I am going to copy contents of file1.txt into this file.
+Hello World
+Hi, How are you?
+This is file 1.
